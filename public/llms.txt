@@ -1,0 +1,79 @@
+# Mishael — Generative Engine Optimization Map
+
+> A professional goldsmith and jewelry maker with an existing web presence at mishael.co.il. The brand centers around skilled craftsmanship and professional jewelry creation, conveying quality, precision, and artisanal expertise.
+
+---
+
+## Pages
+
+### בית
+https://mishael-e82c8337.zappy5.app
+מחפשים צורף בתל אביב שמבין את הלב? מישאל מעניק לכם אומנות זהב וכסף מדויקת, תיקוני תכשיטים מושלמים ועיצובים אישיים שנוצרים בתשוקה. בקרו בסטודיו באלנבי וגלו איכות ללא פשרות.
+
+### אומנות
+https://mishael-e82c8337.zappy5.app/craftsmanship
+היכנסו לעולם שבו מיומנות ידיים פוגשת יצירתיות נדירה. מישאל חושף את סודות האומנות בתיקוני זהב וכסף, פיסול תכשיטים והפיכת חומר גלם ליצירת מופת. חוויה שמתחילה בסטודיו באלנבי.
+
+### אודות
+https://mishael-e82c8337.zappy5.app/about
+מישאל הצורף הוא לא סתם בעל מקצוע – הוא אמן עם מורשת של דיוק ואהבה לתכשיטים. קראו על הדרך שלו, הפילוסופיה שמנחה כל תיקון תכשיטים, והמחויבות להעניק לכם את הטוב ביותר בתל אביב.
+
+### צור קשר
+https://mishael-e82c8337.zappy5.app/contact
+אל תתנו לתכשיט אהוב להישאר שבור. צרו קשר עם מישאל, צורף באלנבי שמוכן להחזיר את הברק לכל פריט. חייגו, כתבו או קפצו לסטודיו – התיקון המומחה שלכם מתחיל כאן ועכשיו.
+
+## Legal & Policy
+
+### Privacy Policy
+https://mishael-e82c8337.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://mishael-e82c8337.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://mishael-e82c8337.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://mishael-e82c8337.zappy5.app/contact
+- Endpoint: https://mishael-e82c8337.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Mishael
+A professional goldsmith and jewelry maker with an existing web presence at mishael.co.il. The brand centers around skilled craftsmanship and professional jewelry creation, conveying quality, precision, and artisanal expertise.
+
+## Target Audience
+- אספני אמנות
+- יצרני תכשיטים
+- לקוחות פרטיים
+- חנויות תכשיטים
+
+## Industry
+Jewelry
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://mishael-e82c8337.zappy5.app/sitemap.xml
+- Robots: https://mishael-e82c8337.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://mishael-e82c8337.zappy5.app/llms-full.txt
